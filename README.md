@@ -36,3 +36,6 @@ node index.js
 
 7. **Open in browser**
    In your browser of choice, navigate to "http://localhost:{port of choice}"
+
+8. **Test cases**
+   You can use `mikewazowski@example.com` as the username and `12345678` as the sample password.
