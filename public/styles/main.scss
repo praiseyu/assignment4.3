@@ -1,0 +1,22 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+#hero-banner {
+  background-image: url("../assets/sign.jpg");
+  background-size: cover;
+  background-position: left;
+  background-repeat: no-repeat;
+  height: calc(100vh - 72px);
+}
+
+#hero-text {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  border-radius: 8px;
+}
+
+#form-bg {
+  background-image: url("../assets/pencilcrayons.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 72px);
+}
